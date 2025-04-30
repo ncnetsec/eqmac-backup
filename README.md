@@ -21,7 +21,7 @@ This Python script extracts equalizer settings from the eqMac application on mac
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/eqmac-backup.git
+   git clone https://github.com/ncnetsec/eqmac-backup.git
    cd eqmac-backup
    ```
 

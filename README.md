@@ -1,6 +1,6 @@
 # eqMac Equalizer Settings Backup
 
-This Python script extracts equalizer settings from the eqMac application on macOS, converts them into a human-readable CSV file, and generates individual text files for each preset in a format compatible with eqMac's text rendering. This allows users to back up their expert equalizer presets and restore them easily.
+This Python script extracts equalizer settings from the eqMac application on macOS, converts them into a human-readable CSV file, and generates individual text files for each preset in a format compatible with eqMac's text rendering. This allows users to back up their expert equalizer presets and restore them easily. Note: eqMac does have a export presets option in eqMac eq(cogwheel next to basic/advanced/expert selection) settings which provides a single JSON file of all presets which can be imported to restore all of those presets.  
 
 ## Features
 
